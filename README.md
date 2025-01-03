@@ -5,7 +5,8 @@ The purpose of this project is to familiarize developers with fundamental softwa
 
 ## Note
 As a core of Model business logic was used self-implemented MyString C++ class that was wrapped to Python lib
-[See MyString] (https://github.com/IBearSu/MyString)
+
+[See MyString](https://github.com/IBearSu/MyString)
 
 ## Objectives
 As part of this laboratory work, it is required to develop a **VIM-like text editor** using **Python 3** that meets the following requirements:
