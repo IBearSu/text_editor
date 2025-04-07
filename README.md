@@ -4,7 +4,7 @@
 The purpose of this project is to familiarize developers with fundamental software design patterns and to gain experience in developing applications based on the **Model-View-Controller (MVC)** architectural pattern.
 
 ## Note
-As a core of Model business logic was used self-implemented MyString C++ class that was wrapped to Python lib
+As a core of Model business logic was used self-implemented MyString C++ class that was wrapped to Python 3.11 lib
 
 [See MyString](https://github.com/IBearSu/MyString)
 
